@@ -1,2 +1,1 @@
 # Cpp-Hangman
-# Cpp-CandyLand
